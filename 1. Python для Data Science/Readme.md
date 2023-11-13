@@ -9,4 +9,4 @@
 Я стремлюсь создать сообщество, где каждый может учиться, делиться и расти вместе. Присоединяйтесь к нам, и давайте вместе расширять границы нашего знания!
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=glYDu8XG7cc)
+[![IMAGE ALT TEXT HERE]((http://img.youtube.com/vi/glYDu8XG7cc/0.jpg))](https://www.youtube.com/watch?v=glYDu8XG7cc)
