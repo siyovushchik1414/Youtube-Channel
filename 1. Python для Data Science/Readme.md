@@ -9,5 +9,4 @@
 Я стремлюсь создать сообщество, где каждый может учиться, делиться и расти вместе. Присоединяйтесь к нам, и давайте вместе расширять границы нашего знания!
 
 
-![1. Установка Python | Виртуальные Среды](http://img.youtube.com/vi/glYDu8XG7cc/0.jpg)(http://www.youtube.com/watch?v=glYDu8XG7cc “1. Установка Python | Виртуальные Среды”)
-[![название видео](http://img.youtube.com/vi/glYDu8XG7cc/0.jpg)](http://www.youtube.com/watch?v=glYDu8XG7cc “название видео”)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/glYDu8XG7cc?si=Z70dSPm43kBmYf1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
