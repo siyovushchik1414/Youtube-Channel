@@ -10,3 +10,4 @@
 
 
 ![1. Установка Python | Виртуальные Среды](http://img.youtube.com/vi/glYDu8XG7cc/0.jpg)(http://www.youtube.com/watch?v=glYDu8XG7cc “1. Установка Python | Виртуальные Среды”)
+[![название видео](http://img.youtube.com/vi/glYDu8XG7cc/0.jpg)](http://www.youtube.com/watch?v=glYDu8XG7cc “название видео”)
